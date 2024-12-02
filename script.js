@@ -17,4 +17,4 @@ let y = 7;
 let temp = x;
 x = y;
 y = temp;
-console.log("Resultado final de X=3 y Y=7 despues del cambio es: X= "+X+", Y="+y+"");
+console.log("Resultado final de X=3 y Y=7 despues del cambio es: X= "+x+", Y="+y+"");
